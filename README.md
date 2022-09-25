@@ -1,4 +1,8 @@
 # Gnews
+GNews app retrieves data from guardians API and displays the data the user wants to see using shared preferences.  
+
+This Android application allows you to search for your latest news based on your preferences. By clicking the news item, you will be redirected to the news item's page.
+I've provided some screenshots of the app :
 
 ## Screenshots of the app UI
 
